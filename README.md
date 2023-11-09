@@ -1,9 +1,6 @@
+
+![1](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/d5d210fe-7611-4908-a952-4aac878e09fe)![2](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/22e5ae3e-ebf0-4e61-8389-8ddd355b349a)![4](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/f1248882-e205-4e13-b9b3-5da730d53e60)
 ![5](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/e2004b49-d86e-4e2d-9d78-53d04582bbe2)
-![1](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/d5d210fe-7611-4908-a952-4aac878e09fe)
-![2](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/22e5ae3e-ebf0-4e61-8389-8ddd355b349a)
-
-![4](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/f1248882-e205-4e13-b9b3-5da730d53e60)
-
 ![6](https://github.com/alaahasanen75/delivary_flutterApp/assets/139650889/3686a5ef-8db1-4a74-a547-c22236629503)
 
 
